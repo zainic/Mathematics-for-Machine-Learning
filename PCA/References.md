@@ -4,3 +4,13 @@ We tend to write our courses from scratch based on what we think is important to
 + Deisenroth et al.: Mathematics for Machine Learning, Cambridge University Press, 2018
 
 + Bishop: Pattern Recognition and Machine Learning, MIT Press, 2006, Chapter 12.1
+
+## Links
+
+If you would like to work offline on the Jupyter notebooks, you can download all the notebooks for this course from
+
+https://drive.google.com/open?id=1yjYM3OV979ETuHO9tUUxjUW4cHJOcuNV
+
+To learn how to setup an offline environment, we have provided a document for setting Jupyter notebooks with Anaconda.
+
+https://docs.google.com/document/d/1Sa5zuRWrcQpPftfrTPxD3EyzQ3J7QCBc031ivTxD4uI/edit?usp=sharing
