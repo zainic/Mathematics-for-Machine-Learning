@@ -20,3 +20,16 @@ Ortogonal Complement
 https://en.wikipedia.org/wiki/Orthogonal_complement
 
 http://mathworld.wolfram.com/OrthogonalDecomposition.html
+
+## Probably Important Equation
+
+![equation](https://latex.codecogs.com/svg.image?\tilde{x_n}&space;=&space;\sum_{j=1}^{M}&space;\beta_{jn}&space;b_j)
+
+![equation](https://latex.codecogs.com/svg.image?J&space;=&space;\frac{1}{N}\sum_{n=1}^{N}&space;\left\|&space;x_n&space;-&space;\tilde{x_n}\right\|^2)
+
+![equation](https://latex.codecogs.com/svg.image?\frac{\partial&space;J}{\partial&space;\tilde{x_n}}&space;=&space;-\frac{2}{N}\left(x_n&space;-&space;\tilde{x_n}\right)^T)
+
+![equation](https://latex.codecogs.com/svg.image?\beta_{jn}&space;=&space;x_n^T&space;b_j,&space;\;&space;j=1,...,M)
+
+![equation](https://latex.codecogs.com/svg.image?x_n&space;-&space;\tilde{x_n}&space;=&space;\sum_{j=M-1}^{D}\left(b_j^T&space;x_n\right)b_j)
+![equation](https://latex.codecogs.com/svg.image?J&space;=&space;\sum_{j=M&plus;1}^{D}&space;b_j^T&space;S&space;b_j)
